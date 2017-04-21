@@ -1,7 +1,7 @@
 Feature 3.
 
-Breakfast list:
+Breakfast List:
 -Cheese
--Milk
 -Ham
 -Bread
+-Milk
